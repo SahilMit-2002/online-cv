@@ -63,16 +63,12 @@ experiences:
       - role: Web Development Intern
         time: 2023 - Present
         company: Acme Grade
-        details: |
-          During my web development internship, I experienced a steep learning curve as I was introduced to various programming languages and tools. I had to adapt quickly to keep up with the pace of the team and the industry. Despite the challenges, I found the experience rewarding as I was able to apply my newly acquired skills to real-world projects.
-
-Working with a team was an enriching experience as well. I learned to collaborate effectively with my peers and communicate my ideas clearly. It was also inspiring to see how each team member brought their unique strengths and perspectives to the table.
-
-Overall, my web development internship was a valuable opportunity to grow both personally and professionally. I feel more confident in my abilities as a developer and I'm excited to see where my newfound skills will take me.
+        details: 
+          During my web development internship, I experienced a steep learning curve as I was introduced to various programming languages and tools. I had to adapt quickly to keep up with the pace of the team and the industry. Despite the challenges, I found the experience rewarding as I was able to apply my newly acquired skills to real-world projects.Working with a team was an enriching experience as well. I learned to collaborate effectively with my peers and communicate my ideas clearly. It was also inspiring to see how each team member brought their unique strengths and perspectives to the table. Overall, my web development internship was a valuable opportunity to grow both personally and professionally. I feel more confident in my abilities as a developer and I'm excited to see where my newfound skills will take me.
       
 projects:
     title: Inventory Management System
-    intro: >
+    intro: 
       The inventory management application is a software solution designed to help businesses automate their inventory processes. The application is built using modern web development technologies and provides users with real-time insights into inventory levels, allowing them to make informed decisions about their stock. With features such as product tracking, sales monitoring, and purchase order generation, our inventory management application can help businesses reduce costs, improve efficiency, and increase customer satisfaction. The application is user-friendly and customizable, with a clean and modern interface.
    
 
@@ -96,5 +92,3 @@ skills:
       - name: javascript
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
