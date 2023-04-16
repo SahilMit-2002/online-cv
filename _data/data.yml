@@ -48,31 +48,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     I’m Sahil Mittal, a BTech student majoring in Computer Science at VIT Bhopal University with an expected graduation date of May 2025. I have a cumulative GPA of 8.5/10 and have excelled in academics throughout my education. Apart from academics, I have honed my technical skills in Software Development Life Cycle, SQL, Python, C++, Database Management Systems, Excel, Data Analytics, and Google Analytics. Additionally, I have completed multiple online courses and training programs, including those in Data Analytics, Google Analytics, and Machine Learning with Python. I have also undertaken a Web Development internship at Acmegrade.
 education:
     title: Education
     info:
       - degree: BTech in Computer Science and Engineering
         university: Vellore Institute of Technology, Bhopal
         time: 2021-2025
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      
       
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Web Development Intern
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
@@ -181,22 +169,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DBMS
         level: 98%
 
-      - name: Angular
-        level: 98%
-
+      
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: python
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: javascript
         level: 60%
 
 footer: >
